@@ -50,7 +50,7 @@ a. How can we leverage the success of the app launch to further enhance our prod
    Giving consumers access to in-app assistance features will improve user interaction with the app. In order to measure the level of        customer satisfaction, it is encouraged to request feedback.
 
 b. Are there any opportunities for expansion or improvements in user acquisition?
-   Yes, reaching a wide audience through running campaigns on other apps to recruit new users. This should require a strategic plan to       measure and manage these campaigns in order to identify the ones that are working well.
+   Yes, reaching a wide audience through running campaigns on other apps to recruit new users. This should require a strategic plan to       measure and manage these campaigns in order to identify the ones that are working well
 
 
 
