@@ -41,5 +41,20 @@ d.   What is the crash rate on the Ribbon app and its significant effect on user
 
 Users of the Ribbon app report a high crash rate of 74% at debut indicating that more testing and improvement are needed. About 5% users left the app and uninstalled it over the first few days as a result of the frequent crashes which also impacted the user experience. Moving on, it was seen that the app was quite reliable with crash rates dropping to 1% for 48 hours until reaching zero. Of course, this increases the app's convenience for users as seen by the fact that users who install the app always sign up and consistently use the app and absolutely reduce user uninstalling the app.
 
+# Recommendation
+a. Because the repost rate is below average, Ribbon app features could be improved
+b. Pay attention to Monthly Active User (MAU) for further analysis 
+
+# Question from CEO 
+a. How can we leverage the success of the app launch to further enhance our products and services?
+   Giving consumers access to in-app assistance features will improve user interaction with the app. In order to measure the level of        customer satisfaction, it is encouraged to request feedback.
+
+b. Are there any opportunities for expansion or improvements in user acquisition?
+   Yes, reaching a wide audience through running campaigns on other apps to recruit new users. This should require a strategic plan to       measure and manage these campaigns in order to identify the ones that are working well.
+
+
+
+
+
    
    
