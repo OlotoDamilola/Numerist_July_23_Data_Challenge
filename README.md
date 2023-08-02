@@ -7,5 +7,6 @@ After importing the data into my excel sheet, i took several manipulations and s
 # Data Analysis and Visualizations 
 1. What are the percentages of users who launch the Ribbon app for use?
 
-   When the Ribbon App first launched, fewer users installed and used it than expected. The second day and beyond saw a sharp increase in the number of people who installed and registered     for the app. It can be inferred that users initially weren't familiar with the app and how it functions to gain their interest, and once the interest was established, a large number of     users who downloaded the app always sign up and use the app. This pattern persisted throughout the app track time. 
+   When the Ribbon App first launched, fewer users installed and used it than expected. The second day and beyond saw a sharp increase in the number of people who installed and registered     for the app. It can be inferred that users initially weren't familiar with the app and how it functions to gain their interest, and once the interest was established, a large number of     users who downloaded the app always sign up and use the app. This pattern persisted throughout the app track time.
+   ![N1](https://github.com/OlotoDamilola/Numerist_July_Data_Challenge/assets/109422215/df616509-078c-49ab-afdf-13d723f367ff)
    
