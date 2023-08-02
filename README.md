@@ -43,6 +43,7 @@ Users of the Ribbon app report a high crash rate of 74% at debut indicating that
 
 # Recommendation
 a. Because the repost rate is below average, Ribbon app features could be improved
+
 b. Pay attention to Monthly Active User (MAU) for further analysis 
 
 # Question from CEO 
